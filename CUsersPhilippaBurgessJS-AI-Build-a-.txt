@@ -1,0 +1,3 @@
+"C:\Users\PhilippaBurgess\JS-AI-Build-a-Thon"
+
+export GITHUB_TOKEN="<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>"
